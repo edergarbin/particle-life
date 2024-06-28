@@ -1,5 +1,5 @@
 # Simulação de Partículas
-
+<img src="demo/demo.gif">
 Este é um projeto simples de simulação de partículas usando JavaScript e a biblioteca `canvas-sketch`. A ideia é fornecer um exemplo de como criar uma simulação interativa onde podemos ajustar parâmetros como número de partículas, velocidade, coesão, separação e alinhamento.
 
 Eu acho fascinante ver como podemos simular comportamentos que identificamos na natureza usando código. Este projeto é uma pequena demonstração de como conceitos como coesão, separação e alinhamento, observados em cardumes de peixes e bandos de pássaros, podem ser recriados digitalmente. Foi apenas um projeto de estudos, mas espero que você goste ou ache interessante.
